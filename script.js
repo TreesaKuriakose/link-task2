@@ -25,7 +25,7 @@ const products = [
         id: 4,
         name: "Evening Clutch",
         price: 149.99,
-        image: "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+        image: "https://images.unsplash.com/photo-1591561954557-26941169b49e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
         description: "Elegant clutch perfect for special occasions"
     },
     {
@@ -53,7 +53,7 @@ const products = [
         id: 8,
         name: "Bohemian Hobo Bag",
         price: 229.99,
-        image: "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+        image: "https://images.unsplash.com/photo-1591561954557-26941169b49e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
         description: "Casual hobo bag with unique pattern"
     },
     {
