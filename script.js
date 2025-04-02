@@ -11,7 +11,7 @@ const products = [
         id: 2,
         name: "Designer Crossbody",
         price: 199.99,
-        image: "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+        image: "https://images.unsplash.com/photo-1591561954557-26941169b49e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
         description: "Stylish crossbody bag with adjustable strap"
     },
     {
